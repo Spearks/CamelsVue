@@ -4,6 +4,8 @@ Have you ever wondered how many camels your partner is worth?
 With this application, you can.
 Built in my journey into Vue.js 3 (for meme)
 
+![Application screenshot](app.png)
+
 ## Project setup
 ```
 npm install
