@@ -1,7 +1,7 @@
 <template>
-    <div class="hero min-h-screen">
-        <div class="hero-content flex-col lg:flex-row">
-            <img src="@/assets/undraw_couple_love_re_3fw6.svg" class="max-w-lg rounded-lg shadow-2xl" />
+    <div class="sm:hero min-h-screen">
+        <div class="sm:hero-content flex-col lg:flex-row">
+            <img src="@/assets/undraw_couple_love_re_3fw6.svg" class="sm:block hidden max-w-lg rounded-lg shadow-2xl" />
             <div class="card bg-base-200 shadow-xl m-auto mt-5 max-h-full w-max border-base-300 border-4 flex-col ">
 
                 <div class="card-body">
