@@ -116,7 +116,7 @@ export default {
                 'Castanho': 1.2
             }[this.personHairColor] || 1;
 
-            return ( (age * ageFactor / 3 ) * name.length * genderFactor * hairFactor * height) / 2
+            return parseFloat(( (age * ageFactor / 3 ) * name.length * genderFactor * hairFactor * height) / 2).toFixed(2)
         }
     }
 }

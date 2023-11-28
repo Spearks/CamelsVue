@@ -12,7 +12,7 @@ module.exports = {
     },
   },
   daisyui: {
-    themes: ["dark", "light", "night", "aqua", "lofi", "dracula", "winter"],
+    themes: ["light", "dracula"],
   },
   plugins: [require("daisyui"), require("@tailwindcss/forms")],
 
